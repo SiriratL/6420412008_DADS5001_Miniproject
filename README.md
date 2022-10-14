@@ -14,7 +14,7 @@ Filename:HS_Code_First_2_digits (97 rows × 4 columns), Unit_RMTS_Customs (22 ro
 1.Which product type that Thailand exported the most?<br/> 
 2.Which product that Thailand exported the most?<br/> 
 3.Which country that Thailand exported the top exported good to?
-# Challenge:
+# Challenges:
 - The source website can pull data only 1 month/time/file
 - Understanding the dataset > mainly about HS Code (categorized code)
 - Searching for the data of grouping HS Code
@@ -44,18 +44,18 @@ HS Code Meaning: https://www.trade.gov/harmonized-system-hs-codes<br/>
 Harmonized System (HS) Codes is a standard commodity classification.<br/>
 Grouping HS Code into 21 Sections:<br/>
 For more info.:https://www.cybex.in/hs-codes/machinery-mechanical-appliances-electrical-equipment-section-16.aspx
-# Chart
-- figure1: Trends of all goods categorized by 21 sections<br/>
+# Charts
+- Figure1: Trends of all goods categorized by 21 sections<br/>
 ![image](https://user-images.githubusercontent.com/111365836/195888256-a9fd2b01-3aca-4153-a6c2-f0a4ead6537c.png)<br/>
-- figure2: Trends of sections 16 (Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; etc.) By HS Chapter>Heading<br/>
+- Figure2: Trends of sections 16 (Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; etc.) By HS Chapter>Heading<br/>
 ![image](https://user-images.githubusercontent.com/111365836/195888456-c0f7687a-d17c-4628-bb3a-ec887c28b973.png)<br/>
-- figure3: Trends of 8471 (the top export from figure2)<br/>
+- Figure3: Trends of 8471 (the top export from figure2)<br/>
 ![image](https://user-images.githubusercontent.com/111365836/195888916-495e6779-c84b-40ec-84f0-016784f04fec.png)<br/>
-- figure4: Export Percentage of 847170 comparing to others:<br/>
+- Figure4: Export Percentage of 847170 comparing to others:<br/>
 ![image](https://user-images.githubusercontent.com/111365836/195889241-8175a852-db5b-4cc9-924c-46450bb85e8d.png)<br/>
-- figure5: 847170 > top export by country:<br/>
+- Figure5: 847170 > top export by country:<br/>
 ![image](https://user-images.githubusercontent.com/111365836/195889583-716f1275-0d3f-4a51-8712-f3eaea68b881.png)<br/>
 # Summary
 - Section 16 (Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; etc.) is the most exported section.
-- The top exported goods in section 16 is 847170 which is an electronic storage units (mainly is HDD)
+- The top exported goods in section 16 is 847170 which is an electronic storage units (mainly is HDD).
 - The country which Thailand export an electronic storage units (847170) the most is UNITED ARAB EMIRATES (AE) > Y2020:99.94%, Y2021:99.90%, Y2022:99.88%.
