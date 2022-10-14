@@ -59,3 +59,6 @@ For more info.:https://www.cybex.in/hs-codes/machinery-mechanical-appliances-ele
 - Section 16 (Machinery and Mechanical Appliances; Electrical Equipment; Parts thereof; etc.) is the most exported section.
 - The top exported goods in section 16 is 847170 which is an electronic storage units (mainly is HDD).
 - The country which Thailand export an electronic storage units (847170) the most is UNITED ARAB EMIRATES (AE) > Y2020:99.94%, Y2021:99.90%, Y2022:99.88%.
+# Presentation:
+![image](https://user-images.githubusercontent.com/111365836/195891370-31ca8e20-c99e-456c-b56c-11cc544c0d54.png)
+
